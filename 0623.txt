@@ -209,7 +209,7 @@
 {"key":"毒蜥蜴影視","name":"⚡️毒蜥蜴影視","type":0,"api":"https://www.duxiyi.com/api.php/provide/vod/at/xml/","playUrl":"https://jx.renrenmi.cc/?url=","searchable":1,"quickSearch":0,"filterable":0},
 
 
-// {"key":"*乐鱼资源","name":"*乐鱼资源","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"*乐鱼资源","name":"*乐鱼资源","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":0},
 
 
 {"key":"星一官采","name":"⚡️星一官采","type":1,"api":"https://gcku.suboyun.vip/api.php/provide/vod/","playUrl":"https://www.xing1.vip/player/dp/?url=","searchable":1,"quickSearch":1,"categories":[]}
