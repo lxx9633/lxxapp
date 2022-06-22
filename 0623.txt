@@ -44,6 +44,16 @@
     "playUrl": ""
     },
 
+       {
+      "key": "hnys_spider",
+      "name": "⚡️厂长",
+      "type": 0,
+      "api": "https://qianoo.cn/api.php/provide/vod/at/xml/",
+      "playUrl": "https://qianoo.cn/m3u8/?url="
+    },
+    
+    
+    
     {
       "key": "hnys_spider",
       "name": "⚡️红🐮资源",
