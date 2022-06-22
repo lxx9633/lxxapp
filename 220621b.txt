@@ -18,7 +18,54 @@
 ## 02.🦋直播
 ## --> spider 改 kittyxm.jar
 ## --> 使用 "02.🐉明接口"时,直播要改成 "02.🦋直播 ", 适配 "🐉设置直播为首页" 这个功能)
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=tvfix&type=list"]}]}],
+ ],
+  "lives": [
+
+    {
+      "group": "🇨🇳央视频道",
+      "channels": [
+        {
+          "name": "🇨🇳CCTV-1🇨🇳",
+          "urls": [
+            "http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8",
+			"http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8",
+            "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8",
+            "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicetype=2&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny1A5gXy7m59YoE1AMvcRYl8Pvf6NHAGt8pY%2F1XkpmVDXg%3D%3D%3A20180910182102%2C60D21CD359DA%2C124.129.96.17%2C20180910182102%2C10000100000000050000000002171815%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND",
+            "http://222.132.191.125:9901/tsfile/live/0001_1.m3u8",
+            "http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv1/1.m3u8?IASHttpSessionId=OTT",
+            "http://39.135.55.105:6610/PLTV/88888888/224/3221225922/index.m3u8?servicetype=1",
+            "http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8",
+            "http://39.135.55.105:6610/PLTV/88888888/224/3221226995/index.m3u8?servicetype=1",
+            "http://39.135.55.105:6610/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1",
+            "http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8",
+            "http://117.148.179.155:80/PLTV/88888888/224/3221231468/1.m3u8",
+            "http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8",
+            "http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8",
+            "http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8",
+            "http://117.169.120.140:8080/live/cctv-1/.m3u8",
+            "http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8",
+            "http://222.132.191.125:9901/tsfile/live/0001_1.m3u8",
+            "http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8",
+            "http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8",
+            "http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8",
+            "http://39.135.138.60:18890/PLTV/88888910/224/3221225630/index.m3u8",
+            "https://jwcdnqx.hebyun.com.cn/live/cctvtest1/1500k/tzwj_video.m3u8",
+            "http://39.135.32.24:6610/000000001000/1000000001000021973/1.m3u8?i?zzhongd",
+            "http://117.148.179.155:80/PLTV/88888888/224/3221231468/1.m3u8",
+            "http://39.135.32.24:6610/000000001000/1000000001000021973/1.m3u8?i?zzhongd",
+            "http://39.135.32.6:6610/PLTV/77777777/224/3221225924/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zzhongd",
+            "http://39.135.32.6:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zzhongd",
+            "http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1?zzhongd",
+            "http://39.135.55.105:6610/PLTV/88888888/224/3221227014/index.m3u8?servicetype=1?zzhongd",
+            "http://39.135.55.105:6610/PLTV/88888888/224/3221225922/index.m3u8?servicetype=1?zzhongd",
+            "http://39.135.55.105:6610/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1?zzhongd",
+            "http://117.148.179.165/PLTV/88888888/224/3221231468/index.m3u8?zzhongd"
+          ]
+     
+    
+        }
+      ]
+    },
 
 
 "sites":[
